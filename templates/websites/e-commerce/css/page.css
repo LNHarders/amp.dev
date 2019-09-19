@@ -749,8 +749,8 @@ canvas {
 }
 
 .px4 {
-  padding-left: 2rem;
-  padding-right: 2rem
+  padding-left: 3rem;
+  padding-right: 4rem
 }
 
 .col {
@@ -3812,7 +3812,6 @@ amp-selector [option][selected] {
   cursor: pointer;
   height: 30px;
   width: 30px;
-  top: 40%
 }
 
 .commerce-related-products .amp-carousel-button-next,.commerce-related-products .amp-carousel-button-prev {
@@ -3825,7 +3824,8 @@ amp-selector [option][selected] {
 
 .commerce-related-products .amp-carousel-button-next {
   right: 0;
-  transform: translateY(-50%) rotate(180deg)
+  top: 0;
+  transform: translateX(-50%) rotate(180deg)
 }
 
 .commerce-related-product {

@@ -27,7 +27,7 @@ When we look at the [documentation](../../../documentation/components/reference/
 
 - What layouts does this component support?
 
-{{ image('/static/img/courses/beginner/image25.webp', 1024, 771, caption='AMP documentation page for `<amp-carousel>`.') }}
+{{ image('/static/img/courses/beginner/image25.png', 1064, 662, caption='AMP documentation page for <amp-carousel>.') }}
 
 Look at the following items in the [documentation](../../../documentation/components/reference/amp-carousel.md) of `<amp-carousel>`:
 
@@ -121,7 +121,7 @@ Here is how the code you added might look in your project:
 Remember to include the `<amp-carousel>` script in the `<head>`:
 
 ```
-<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.2.js"></script>
 ```
 
 ## Discovering New Components
@@ -136,7 +136,7 @@ Another way to find components is to use the [AMP Components Reference](../../..
 
 Finally, we might still have questions about how the component would act on our site, or we may be unclear about how to use the component in more complex ways. The [AMP By Example](../../../documentation/examples/index.html) section on amp.dev has pages showcasing many AMP components, showing a variety of ways to configure those components to meet common use cases in modern websites. Usually, you can get to the corresponding AMP By Example page for a component directly from its documentation.
 
-{{ image('/static/img/courses/beginner/image7.webp', 1024, 699, caption='AMP By Example page for the `<amp-carousel>` component.') }}
+{{ image('/static/img/courses/beginner/image7.webp', 1024, 699, caption='AMP By Example page for the <amp-carousel> component.') }}
 
 ## Exercise 6: Adding Social Sharing Links
 
@@ -288,7 +288,7 @@ Here is how the code you added might look in your project:
 Remember to include the `<amp-carousel>` script in the `<head>`:
 
 ```
-<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.2.js"></script>
 ```
 
 ## Discovering New Components
